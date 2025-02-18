@@ -1,0 +1,1 @@
+Mi primera experiencia con los ejercicios Git es buena, aunque me hubiese encantado tener mas tiempo personal para dedicarle
